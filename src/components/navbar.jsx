@@ -30,7 +30,7 @@ export const BgNavbar = () => {
 
         {/* desktop */}
         <div className="hidden md:block relative w-full h-auto">
-            <div className="ml-210 w-50 h-20 rounded-3xl flex justify-center items-center bg-blue-950 text-white"> 
+            <div className="ml-210 w-50 h-20 rounded-3xl flex justify-center items-center bg-red-700 text-white"> 
                 <nav>
                     <ul className=" flex gap-10">
                         <li className="hover:font-bold cursor-pointer">CV</li>
